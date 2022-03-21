@@ -1,0 +1,20 @@
+*Positive scenarios:*
+1. Verify/Assert the title title
+2. Able to create a to-do list and remove it
+3. Able to create multiple to-do list & remove first item
+4. Able to create, complete and clear the to-do list
+5. User wants to edit the TODOs
+6. User not saves empty Todo list
+
+*Negative scenarios:*
+1. All the to-dos are editable at once, clicking outside saves it
+2. Unable to view the deleted  notes for re-use
+3. Editing is not handy, Double click on to-do item and then clicking outside does nothing sometimes
+4. When updating the existing item, Empty should not accept
+
+
+ *Page Object Model design pattern used.
+ *Html reports are present inside target folder
+ 
+               
+               
